@@ -19,3 +19,12 @@ public class Exercise4_4 {
         // Cevaplarinizi yorum olarak ekleyin.
     }
 }
+
+1- yine 42 döndürür.
+    Ama biz bu değeri hiçbir değişkene atamadık ve hiç yazdırmadık.
+    Yani 42 hiçbir yerde gözükmez.
+    Program çalışılır, hata vermez, sadece 42 "boşa gider", yok sayılır.
+
+
+    2- Void metotlarda değer döndürülümez bu nedenle toplanacak da bir değer yoktur bu yüzden hata verir.
+    
