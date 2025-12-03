@@ -10,7 +10,7 @@ public class Exercise4_1 {
     }
 
     public static void main(String[] args) {
-        String day = "Monday";    //  (örnek veri)
+        String day = "Monday";    
         String month = "July";
         int date = 22;
         int year = 2019;
