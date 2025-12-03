@@ -16,8 +16,8 @@ public class Exercise4_2 {
             System.out.println(quince + " zoop"); // 6
         } else {
             System.out.println("ik");             // 2
-            baffle(quince);                       // 3
-            System.out.println("boo-wa-ha-ha");   // 7
+            baffle(quince);                       // 3,7
+            System.out.println("boo-wa-ha-ha");   // 8
         }
     }
 }
